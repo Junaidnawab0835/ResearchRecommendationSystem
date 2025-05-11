@@ -7,7 +7,7 @@ Project is a multi-label classifier and semantic recommender system built using 
 - Multi-label classification using MLPClassifier from Scikit-learn
 - TF-IDF feature extraction on cleaned text
 - Semantic search using SentenceTransformer (MiniLM)
-- Evaluation with F1, Hamming Loss, and Exact Match Accuracy
+- Evaluation with Accuracy
 - CLI interface for interactive classification and recommendations
 
 ## Dataset
